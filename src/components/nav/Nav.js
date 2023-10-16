@@ -41,24 +41,3 @@ import Logo from '../../assets/images/footer-logo-5c101fa8.png'
     }
 
     export default Nav;
-
-    {/*
-.navbar_site_hero{
-    width: 100%;
-    height: 100px;
-    background-color: #26597e;
-}
-.logo-image{
-    margin: 20px;
-    width: 60px;
-    height: 60px;
-}.spn_text{
-    color: #fff;
-    font-size: 18px;
-}
-.spn_nav_text{
-    color: #fff;
-    font-size: 18px;
-    margin-top: 30px;
-}
-/* jjj */}
