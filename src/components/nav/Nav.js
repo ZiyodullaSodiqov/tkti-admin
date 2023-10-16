@@ -3,7 +3,7 @@ import React from 'react'
     function Nav() {
         return(
             <>
-            
+                Hello I am Aqlbek
             </>
         )
     }
