@@ -4,6 +4,7 @@ import React from 'react'
         return(
             <>
                 Hello I am Aqlbek
+                Hello I am your teacher
             </>
         )
     }
