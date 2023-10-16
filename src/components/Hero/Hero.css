@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.changeX1{
+    background-color:cornflowerblue;
+    height: 350px;
+    color: white;
+}
