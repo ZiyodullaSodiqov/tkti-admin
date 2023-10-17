@@ -1,8 +1,14 @@
-import Hero from "./components/Hero/Hero"
-export default function App(){
-    return(
-        <>
-        <Hero />
-        </>
-    )
-}
+import React from 'react'
+import Nav from './components/nav/Nav'
+
+    function App() {
+        return(
+            <>
+                <Nav />
+            </>
+        )
+    }
+
+    export default App;
+
+    // footer qani delete buldi qachon ? hero.jsx da endi

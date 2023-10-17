@@ -3,8 +3,44 @@
     margin: 0;
     box-sizing: border-box;
 }
+.logo-images{
+width: 80px;
+margin-top:20px ;
+}
+.changeX{
+    margin-left: 90px;
+    margin-top: -80px;
+    padding: 10px;
+}
 .changeX1{
-    background-color:cornflowerblue;
-    height: 350px;
+    width: 1410px;
+    background-color:#26597e;
+    height: 450px;
     color: white;
+}
+.changeX2{
+    width: 25px;
+    height: 25px;
+    padding: 10px;
+    margin: 5px;
+    text-decoration: none;
+    color: white;
+    border-radius: 50%;
+    border: 1px solid white;    
+}
+.chiziq{
+    background-color: white;
+    height: 1px;
+    width: 1300px;
+}
+.changeX4{
+    transform: translate(10px,30px);
+}
+.changeX5{
+    margin-top: 80px;
+}
+.changeX6{
+    margin-top: 20px;
+    text-align: center;
+
 }
